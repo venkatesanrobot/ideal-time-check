@@ -1,2 +1,0 @@
-# venkatesanrobot
-ideal time check
